@@ -1,9 +1,12 @@
 import DealOfTheDay from "../DealOfTheDay/DealOfTheDay";
 import DealOfTheDay2 from "../DealOfTheDay/DealOfTheDay2";
+import MostViewedItem from "../MostViewedItems/MostViewedItems";
 import OnSellingProduct from "../OnSellingProduct/OnSellingProduct";
 import OnSellingProduct2 from "../OnSellingProduct/OnSellingProduct2";
 import ShopAllCategories from "../ShopAllCategories/ShopALlCategories";
 import ShopByDepartment from "../ShopByDEpartment/ShopByDepartment";
+import TopBrand from "../TopBrand/TopBrand";
+import WeeklyVendor from "../WeeklyVendor/WeeklyVendor";
 import BottomBar from "./BottomBar/BottomBar";
 import LeftSideBar from "./LeftSideBar/LeftSideBAr";
 import MiddleBar from "./MiddleBar/MiddleBar";
@@ -25,6 +28,10 @@ const Home = () => {
             <OnSellingProduct></OnSellingProduct>
             <OnSellingProduct2></OnSellingProduct2>
             <ShopAllCategories></ShopAllCategories>
+            <MostViewedItem></MostViewedItem>
+            <TopBrand></TopBrand>
+            <WeeklyVendor></WeeklyVendor>
+            <></>
         </div>
     );
 };
