@@ -61,17 +61,17 @@
       "Name": "Businest"
     },
     {
-      "_id": "12",
+      "_id": "13",
       "image": "../src/assets/images/p-13.png",
       "Name": "Plant"
     },
     {
-      "_id": "12",
+      "_id": "14",
       "image": "../src/assets/images/p-14.png",
       "Name": "Animal"
     },
     {
-      "_id": "12",
+      "_id": "15",
       "image": "../src/assets/images/p-15.png",
       "Name": "Technology"
     }

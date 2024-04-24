@@ -5,19 +5,6 @@ import SectionTitle from "../Shared/SectionTitle/SectionTitle";
 import { GoStarFill } from "react-icons/go";
 
 const DealOfTheDay = () => {
-    // const [images, setImages] = useState([]);
-    // useEffect(() => {
-    //     fetch('https://incevio-server.vercel.app/dealOfTheDay')
-    //         .then(res => res.json())
-    //         .then(data => {
-    //             console.log(data)
-    //             setImages(data)
-    //         })
-    // }, [])
-
-
-
-
     return (
         <div className=" max-w-screen-xl mx-auto mb-10">
             <SectionTitle
