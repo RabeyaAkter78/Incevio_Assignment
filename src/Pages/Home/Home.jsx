@@ -1,3 +1,4 @@
+import DailyDisCover from "../DailyDiscover/DailyDiscover";
 import DealOfTheDay from "../DealOfTheDay/DealOfTheDay";
 import DealOfTheDay2 from "../DealOfTheDay/DealOfTheDay2";
 import MostViewedItem from "../MostViewedItems/MostViewedItems";
@@ -31,7 +32,7 @@ const Home = () => {
             <MostViewedItem></MostViewedItem>
             <TopBrand></TopBrand>
             <WeeklyVendor></WeeklyVendor>
-            <></>
+            <DailyDisCover></DailyDisCover>
         </div>
     );
 };
