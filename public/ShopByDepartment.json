@@ -1,0 +1,20 @@
+[
+    {
+        "_id": {
+            "$oid": "65e580612767c5195991cc37"
+        },
+        "image": "../src/assets/images/catImg-9.png",
+        "Name": "Animal"
+    },
+    {"_id":{"$oid":"65e580612767c5195991cc2f"},"image":"../src/assets/images/catImg-1.png","Name":"Food"},
+    {"_id":{"$oid":"65e580612767c5195991cc31"},"image":"../src/assets/images/catImg-3.png","Name":"Art"},
+    {"_id":{"$oid":"65e580612767c5195991cc36"},"image":"../src/assets/images/catImg-8.png","Name":"Technology"},
+    {"_id":{"$oid":"65e580612767c5195991cc38"},"image":"../src/assets/images/catImg-10.png","Name":"Nature"},
+    {"_id":{"$oid":"65e580612767c5195991cc34"},"image":"../src/assets/images/catImg-6.png","Name":"Architecture"},
+    {"_id":{"$oid":"65e580612767c5195991cc33"},"image":"../src/assets/images/catImg-5.png","Name":"Colorful"},
+    {"_id":{"$oid":"65e580612767c5195991cc32"},"image":"../src/assets/images/catImg-4.png","Name":"Paint"},
+    {"_id":{"$oid":"65e580612767c5195991cc35"},"image":"../src/assets/images/catImg-7.png","Name":"Minimal"},
+    {"_id":{"$oid":"65e580612767c5195991cc3a"},"image":"../src/assets/images/catImg-12.png","Name":"Portrait"},
+    {"_id":{"$oid":"65e580612767c5195991cc39"},"image":"../src/assets/images/catImg-11.png","Name":"Texture"},
+    {"_id":{"$oid":"65e580612767c5195991cc30"},"image":"../src/assets/images/catImg-2.png","Name":"Interior"}
+]
