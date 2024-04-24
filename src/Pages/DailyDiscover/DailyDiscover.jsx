@@ -4,7 +4,8 @@ import img from "../../assets/images/star.png"
 const DailyDisCover = () => {
     const [products, setProducts] = useState([]);
     useEffect(() => {
-        fetch('https://incevio-server.vercel.app/dailyDiscoverProducts')
+        fetch('dailyDiscover.json')
+        // fetch('https://incevio-server.vercel.app/dailyDiscoverProducts')
             .then(res => res.json())
             .then(data => {
                 // console.log(data)

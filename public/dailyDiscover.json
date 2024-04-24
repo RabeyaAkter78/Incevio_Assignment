@@ -1,0 +1,166 @@
+[
+    {
+        "_id": "1",
+        "image": "../src/assets/images/v-7.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": "2",
+        "image": "../src/assets/images/v-2.png",
+        "title": "Product 2",
+        "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": {
+            "$numberDouble": "39.99"
+        },
+        "discount": {
+            "$numberInt": "10"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d4c"
+        },
+        "image": "../src/assets/images/v-1.png",
+        "title": "Product 1",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": {
+            "$numberDouble": "29.99"
+        },
+        "discount": {
+            "$numberInt": "5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d55"
+        },
+        "image": "../src/assets/images/v-10.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d4f"
+        },
+        "image": "../src/assets/images/v-4.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d54"
+        },
+        "image": "../src/assets/images/v-9.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d57"
+        },
+        "image": "../src/assets/images/v-12.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d56"
+        },
+        "image": "../src/assets/images/v-11.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d4e"
+        },
+        "image": "../src/assets/images/v-3.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d53"
+        },
+        "image": "../src/assets/images/v-8.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d50"
+        },
+        "image": "../src/assets/images/v-5.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65e5838b2767c51959998d50"
+        },
+        "image": "../src/assets/images/v-5.png",
+        "title": "Product 3",
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": {
+            "$numberDouble": "49.99"
+        },
+        "discount": {
+            "$numberInt": "0"
+        }
+    }
+]
