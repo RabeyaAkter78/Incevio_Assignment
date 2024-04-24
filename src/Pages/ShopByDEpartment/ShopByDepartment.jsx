@@ -5,7 +5,6 @@ const ShopByDepartment = () => {
     const [categories, setCategories] = useState([]);
     useEffect(() => {
         fetch('ShopByDepartment.json')
-        // fetch('https://incevio-server.vercel.app/shopByDepartment')
             .then(res => res.json())
             .then(data => {
                 console.log(data)

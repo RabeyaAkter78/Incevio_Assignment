@@ -3,7 +3,7 @@ import logo from "../../assets/images/logo.png"
 const Apple = () => {
     const [apples, setApples] = useState([]);
     useEffect(() => {
-        fetch('https://incevio-server.vercel.app/appleProducts')
+        fetch('apple.json')
             .then(res => res.json())
             .then(data => {
                 // console.log(data)

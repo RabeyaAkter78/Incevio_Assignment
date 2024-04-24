@@ -24,9 +24,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d4c"
-        },
+        "_id": "3",
         "image": "../src/assets/images/v-1.png",
         "title": "Product 1",
         "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -38,9 +36,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d55"
-        },
+        "_id": "4",
         "image": "../src/assets/images/v-10.png",
         "title": "Product 3",
         "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -52,9 +48,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d4f"
-        },
+        "_id": "5",
         "image": "../src/assets/images/v-4.png",
         "title": "Product 3",
         "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -66,9 +60,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d54"
-        },
+        "_id": "6",
         "image": "../src/assets/images/v-9.png",
         "title": "Product 3",
         "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -80,9 +72,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d57"
-        },
+        "_id": "7",
         "image": "../src/assets/images/v-12.png",
         "title": "Product 3",
         "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -94,9 +84,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d56"
-        },
+        "_id": "8",
         "image": "../src/assets/images/v-11.png",
         "title": "Product 3",
         "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -108,9 +96,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d4e"
-        },
+        "_id": "9",
         "image": "../src/assets/images/v-3.png",
         "title": "Product 3",
         "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -122,9 +108,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d53"
-        },
+        "_id": "10",
         "image": "../src/assets/images/v-8.png",
         "title": "Product 3",
         "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -136,9 +120,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d50"
-        },
+        "_id":"11",
         "image": "../src/assets/images/v-5.png",
         "title": "Product 3",
         "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -150,9 +132,7 @@
         }
     },
     {
-        "_id": {
-            "$oid": "65e5838b2767c51959998d50"
-        },
+        "_id": "12",
         "image": "../src/assets/images/v-5.png",
         "title": "Product 3",
         "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
