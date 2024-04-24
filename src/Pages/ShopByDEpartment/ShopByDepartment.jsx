@@ -4,7 +4,7 @@ import SectionTitle from "../Shared/SectionTitle/SectionTitle";
 const ShopByDepartment = () => {
     const [categories, setCategories] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/shopByDepartment')
+        fetch('https://incevio-server.vercel.app/shopByDepartment')
             .then(res => res.json())
             .then(data => {
                 console.log(data)
